@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ServicesDemo</string>
+    <string name="notification_title">Service Start</string>
+    <string name="notification_message">"This Service is running "</string>
+    <string name="ticker_text">yes</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+</resources>
